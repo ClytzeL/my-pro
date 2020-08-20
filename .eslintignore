@@ -1,0 +1,16 @@
+node_modules
+npm-debug.log
+.idea
+.DS_Store
+dist/
+cache/
+.vscode/
+coverage/
+dev/
+config/
+staging/
+src/common/js
+test
+src/page/middle.html
+src/page/index.html
+.eslintcache
